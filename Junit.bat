@@ -1,0 +1,1 @@
+echo "Junit is tuff!"
